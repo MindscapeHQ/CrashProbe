@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "06E47177B28120A27CA00DE9F89740860A6B47A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "06E47177B28120A27CA00DE9F89740860A6B47A9" : 0,
+    "559B0E380AD224358BA57341BB633CD331E193EE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8B79E755-54BB-40C4-9D56-0E3811816E58",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "06E47177B28120A27CA00DE9F89740860A6B47A9" : "Raygun-CrashProbe\/",
+    "559B0E380AD224358BA57341BB633CD331E193EE" : "raygun4ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CrashProbe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CrashProbe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MindscapeHQ\/Raygun-CrashProbe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06E47177B28120A27CA00DE9F89740860A6B47A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MindscapeHQ\/raygun4ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "559B0E380AD224358BA57341BB633CD331E193EE"
+    }
+  ]
+}

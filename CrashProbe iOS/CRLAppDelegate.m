@@ -25,11 +25,14 @@
  */
 
 #import "CRLAppDelegate.h"
+#import <Raygun4iOS/Raygun.h>
 
 @implementation CRLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+  [Raygun sharedReporterWithApiKey:@"YOUR_APP_API_KEY"];
+    
   return YES;
 }
 
